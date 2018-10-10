@@ -13,14 +13,14 @@ Background
 ========================================================
 type:section
 
-Similar to the BC Public Service Work Enviornment Survey (WES), BC Stats runs several smaller surveys to external clients
+Similar to the BC Public Service Work Environment Survey (WES), BC Stats runs several smaller surveys to external clients
 
 Two main report types:
 
 ![BCPS WES report](Workflow_V01-figure/bcps_overall.png) ![BCPS WES work unit table](Workflow_V01-figure/bcps_workbook.png)
 
 
-Inital state of these pojects
+Initial state of these projects
 ========================================================
 type:section
 
@@ -59,7 +59,7 @@ type:section
 - Packages: haven, xlsx
 - Inputs: SPSS dataset, Excel "Questions" file
 - Customization: at the top of the program, or with Excel inputs
-- Output: Formatted excel tables with multiple tabs, autofilters and freeze panes
+- Output: Formatted excel tables with multiple tabs, auto filters and freeze panes
 
 ![r code](Workflow_V01-figure/check_files_setup.png)
 
