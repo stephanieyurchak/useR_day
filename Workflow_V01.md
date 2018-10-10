@@ -11,18 +11,18 @@ October 11, 2018
 
 Background
 ========================================================
-type:section
+type:prompt
 
-Similar to the BC Public Service Work Enviornment Survey (WES), BC Stats runs several smaller surveys to external clients
+Similar to the BC Public Service Work Environment Survey (WES), BC Stats runs several smaller surveys to external clients
 
 Two main report types:
 
 ![BCPS WES report](Workflow_V01-figure/bcps_overall.png) ![BCPS WES work unit table](Workflow_V01-figure/bcps_workbook.png)
 
 
-Inital state of these pojects
+Initial state of these projects
 ========================================================
-type:section
+type:prompt
 
 Process:
 
@@ -37,13 +37,13 @@ Issues:
 
 Tackling Version Control/Standardization
 ========================================================
-type:section
+type:prompt
 
-- Template project folders  
+- Template project folders
 
 ![folder structure](Workflow_V01-figure/folder_structure.png)
 
-- Template syntax in SPSS and Excel files with updateable formulas  
+- Template syntax in SPSS and Excel files with updatable formulas 
 
 ![excel formulas](Workflow_V01-figure/concat_formulas.png)
 
@@ -54,18 +54,18 @@ Results:
 
 Report generation: Work unit tables
 ========================================================
-type:section
+type:prompt
 
 - Packages: haven, xlsx
 - Inputs: SPSS dataset, Excel "Questions" file
 - Customization: at the top of the program, or with Excel inputs
-- Output: Formatted excel tables with multiple tabs, autofilters and freeze panes
+- Output: Formatted excel tables with multiple tabs, auto filters and freeze panes
 
 ![r code](Workflow_V01-figure/check_files_setup.png)
 
 Report generation: Work unit tables
 ========================================================
-type:section
+type:prompt
 
 ![unform response](Workflow_V01-figure/wu_response_log.png)
 
@@ -73,7 +73,7 @@ type:section
 
 Report generation: Work unit tables
 ========================================================
-type:section
+type:prompt
 
 ![unform driver](Workflow_V01-figure/wu_driver_log.png)
 
@@ -81,7 +81,7 @@ type:section
 
 Report generation: Work unit tables
 ========================================================
-type:section
+type:prompt
 
 ![unform scores](Workflow_V01-figure/wu_scores_log.png)
 
@@ -89,7 +89,7 @@ type:section
 
 Report generation: PDF reports
 ========================================================
-type:section
+type:prompt
 
 How to recreate our highly formatted report appearance?
 
@@ -99,7 +99,7 @@ With R and LaTeX!
 
 Current state of these projects
 ========================================================
-type:section
+type:prompt
 
 Initial Process:
 
@@ -112,7 +112,7 @@ Current Process:
 
 Conclusion
 ========================================================
-type:section
+type:prompt
 
 Workflow enhancements:
 - Clear direction and consistency across projects run by different people
